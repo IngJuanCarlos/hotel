@@ -473,7 +473,7 @@
             <!-- Main row -->
             <div class="row">
                 <!-- Left col -->
-                <section class="col-lg-6 connectedSortable">
+                <section class="col-lg-12 connectedSortable">
                     <!-- Box (with bar chart) -->
                     {{--<div class="box box-danger" id="loading-example">--}}
                         {{--<div class="box-header">--}}
@@ -598,7 +598,7 @@
                     <div class="box box-info">
                         <div class="box-header">
                             <i class="fa fa-envelope"></i>
-                            <h3 class="box-title">Quick Email</h3>
+                            <h3 class="box-title">Inicio</h3>
                             <!-- tools box -->
                             <div class="pull-right box-tools">
                                 <button class="btn btn-info btn-sm" data-widget="remove" data-toggle="tooltip" title="Remove"><i class="fa fa-times"></i></button>
