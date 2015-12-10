@@ -15,6 +15,7 @@
     <link href="{{ asset('assets/pagina/css/prettyPhoto.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/pagina/css/main.css') }}" rel="stylesheet">
     <link href="{{ asset('assets/pagina/css/responsive.css') }}" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700italic' rel='stylesheet' type='text/css'>
     <!--[if lt IE 9]>
     <script src="{{ asset('assets/pagina/js/html5shiv.js') }}"></script>
     <script src="{{ asset('assets/pagina/js/respond.min.js') }}"></script>

@@ -38,9 +38,9 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h2><span>Multi</span> is the best Onepage html template</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua. </p>
-                                    <a class="btn btn-primary btn-lg" href="#">Read More</a>
+                                    <h2><span>Disfruta</span> de nuestras confortables habitaciones</h2>
+                                    <p style="font-weight: bold;font-size:25px; font-family: 'Josefin Sans', sans-serif">Nuestras instalaciones son las mejores de este hermoso Municipio de la region de los Volcanes </p>
+                                    <a class="btn btn-primary btn-lg" href="#">Leer más</a>
                                 </div>
                             </div>
                         </div>
@@ -54,9 +54,9 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h2>Beautifully designed <span>free</span> one page template</h2>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et  dolore magna incididunt ut labore aliqua. </p>
-                                    <a class="btn btn-primary btn-lg" href="#">Read More</a>
+                                    <h2>Siempre desearas regresar <span>ven</span> y vivelo</h2>
+                                    <p style="font-weight: bold; font-size:25px; font-family: 'Josefin Sans', sans-serif">Más que un hotel somos un lugar donde su satisfaccion y descanso son nuestro mayor objetivo </p>
+{{--                                     <a class="btn btn-primary btn-lg" href="#">Read More</a> --}}
                                 </div>
                             </div>
                         </div>
