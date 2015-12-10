@@ -17,10 +17,10 @@
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
                         <li class="scroll active"><a href="#home">Inicio</a></li>
-                        <li class="scroll"><a href="#features">Reservaciones</a></li>
-                        <li class="scroll"><a href="#services">Servicios</a></li>
-                        <li class="scroll"><a href="#about">About</a></li>
-                        <li class="scroll"><a href="#meet-team">Team</a></li>
+                        <li class="scroll"><a href="#features">Servicios</a></li>
+                        <li class="scroll"><a href="#services">Reservaciones</a></li>
+{{--                    <li class="scroll"><a href="#about">About</a></li>
+                        <li class="scroll"><a href="#meet-team">Team</a></li> --}}
                         <li class="scroll"><a href="#pricing">Precios</a></li>
                         <li class="scroll"><a href="#get-in-touch">Contactanos</a></li>
                         <li class="scroll"><a href="#portfolio">Sistema</a></li>
