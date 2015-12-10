@@ -84,21 +84,21 @@
     <section id="features">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Awesome Features</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2 class="section-title text-center wow fadeInDown">Nuestros Servicios</h2>
+                <p class="text-center wow fadeInDown">Ademas de poder descansar te ofrecemos una amplia selección de servicios a habitación <br> para que su estadia sea de lo mas placentera</p>
             </div>
             <div class="row">
                 <div class="col-sm-6 wow fadeInLeft">
-                    <img class="img-responsive" src="{{ asset('assets/pagina/images/main-feature.png') }}" alt="">
+                    <img class="img-responsive" src="{{ asset('assets/pagina/images/servicios-hotel.jpg') }}" alt="">
                 </div>
                 <div class="col-sm-6">
                     <div class="media service-box wow fadeInRight">
                         <div class="pull-left">
-                            <i class="fa fa-line-chart"></i>
+                            <i class="fa fa-line-chart"></i> 
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">UX design</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">Servicio a Habitación</h4>
+                            <p>Te ofrecemos servicio a cuarto de alimentos y bebidas. solo consulta la carta en nuestra recepcion y ordena desde la cmmodidad de tu habitación</p>
                         </div>
                     </div>
 
@@ -107,8 +107,8 @@
                             <i class="fa fa-cubes"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">UI design</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">Bar y Restaurante</h4>
+                            <p>Contamos con un espacio destinado a disfrutar de alimentos y bebidas dentro de nuestras instalaciones. </p>
                         </div>
                     </div>
 
@@ -117,8 +117,8 @@
                             <i class="fa fa-pie-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">SEO Services</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">Guias Turisticos</h4>
+                            <p>Si usted es un visitante no experimentado le ofrecemos la posibilidad de alquilar un paseo guiado con una persona que lo llevara a recorridos locales </p>
                         </div>
                     </div>
 
@@ -127,8 +127,17 @@
                             <i class="fa fa-pie-chart"></i>
                         </div>
                         <div class="media-body">
-                            <h4 class="media-heading">SEO Services</h4>
-                            <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
+                            <h4 class="media-heading">Internet Gratuito</h4>
+                            <p>Conexion gratis a Internet dentro de las instalaciones</p>
+                        </div>
+                    </div>
+                    <div class="media service-box wow fadeInRight">
+                        <div class="pull-left">
+                            <i class="fa fa-pie-chart"></i>
+                        </div>
+                        <div class="media-body">
+                            <h4 class="media-heading">Estacionamiento</h4>
+                            <p>Para todos nuestros clientes contamos con servicio de estacionamiento </p>
                         </div>
                     </div>
                 </div>
@@ -151,7 +160,7 @@
         <div class="container">
 
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Our Services</h2>
+                <h2 class="section-title text-center wow fadeInDown">Reservaciones</h2>
                 <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>
 
@@ -341,7 +350,7 @@
         </div><!--/.container-->
     </section><!--/#portfolio-->
 
-    <section id="about">
+{{--     <section id="about">
         <div class="container">
 
             <div class="section-header">
@@ -385,8 +394,8 @@
                 </div>
             </div>
         </div>
-    </section><!--/#about-->
-
+    </section><!--/#about--> --}}
+{{-- 
     <section id="work-process">
         <div class="container">
             <div class="section-header">
@@ -451,8 +460,8 @@
                 </div>
             </div>
         </div>
-    </section><!--/#work-process-->
-
+    </section><!--/#work-process--> --}}
+{{-- 
     <section id="meet-team">
         <div class="container">
             <div class="section-header">
@@ -646,7 +655,7 @@
 
             </div>
         </div>
-    </section><!--/#meet-team-->
+    </section><!--/#meet-team--> --}}
 
     <section id="animated-number">
         <div class="container">
