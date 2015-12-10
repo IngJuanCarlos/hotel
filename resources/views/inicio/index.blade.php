@@ -1,4 +1,4 @@
-@extends('templates/pagina')
+@extends('templates.pagina')
 
 @section('contenido')
     <header id="header">
@@ -23,7 +23,7 @@
                         <li class="scroll"><a href="#meet-team">Team</a></li>
                         <li class="scroll"><a href="#pricing">Precios</a></li>
                         <li class="scroll"><a href="#get-in-touch">Contactanos</a></li>
-                        <li class="scroll"><a href="#portfolio">Sistema</a></li>
+                        <li class="scroll"><a href="{{ url('/login') }}">Sistema</a></li>
                     </ul>
                 </div>
             </div><!--/.container-->

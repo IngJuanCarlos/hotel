@@ -19,7 +19,8 @@
             "database"
         ],
         "psr-4": {
-            "Hotel\\": "app/"
+            "Hotel\\": "app/",
+            "Library\\": "app/Library"
         }
     },
     "autoload-dev": {
