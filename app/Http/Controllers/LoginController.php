@@ -6,9 +6,16 @@ use Illuminate\Http\Request;
 
 use Hotel\Http\Requests;
 use Hotel\Http\Controllers\Controller;
+use Library\Interfaces\UsuarioInterface;
 
 class LoginController extends Controller
 {
+    protected $usuario;
+
+    public function __construct(UsuarioInterface $usuario)
+    {
+        $this->usuario = $usuario;
+    }
 
     public function index()
     {
@@ -16,7 +23,8 @@ class LoginController extends Controller
     }
 
 
-    public function validar(Request $request){
-        dd($request);
+    public function validar(Request $request)
+    {
+        $this->usuario->validar($request);
     }
 }
