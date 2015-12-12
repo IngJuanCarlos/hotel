@@ -25,6 +25,6 @@ class LoginController extends Controller
 
     public function validar(Request $request)
     {
-        $this->usuario->validar($request);
+        return $this->usuario->validar($request);
     }
 }

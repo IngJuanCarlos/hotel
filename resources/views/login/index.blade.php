@@ -25,13 +25,13 @@
   <form action="{{ url('/login') }}" method="post">
     <div class="body bg-gray">
       <div class="form-group">
-        <input type="text" name="userid" class="form-control" placeholder="Usuario"/>
+        <input type="text" name="usuario" class="form-control" placeholder="Usuario" required />
       </div>
       <div class="form-group">
-        <input type="password" name="password" class="form-control" placeholder="Password"/>
+        <input type="password" name="password" class="form-control" placeholder="Password" required />
       </div>
       <div class="form-group">
-        <input type="checkbox" name="remember_me"/> Recordarme</div>
+        <input type="checkbox" name="remember"/> Recordarme</div>
     </div>
     <div class="footer">
       <button type="submit" class="btn bg-light-blue btn-block">Iniciar Sesión</button>

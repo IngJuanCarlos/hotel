@@ -100,7 +100,7 @@
         <li class="dropdown user user-menu">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">
             <i class="glyphicon glyphicon-user"></i>
-            <span>Juan Carlos <i class="caret"></i></span>
+            <span>{{ Auth::user()->nombre }} <i class="caret"></i></span>
           </a>
           <ul class="dropdown-menu">
             <!-- User image -->
@@ -109,7 +109,7 @@
                    alt="User Image"/>
 
               <p>
-                Juan Carlos - Administrador
+                {{ Auth::user()->nombre }} - Administrador
                 <small>Hotel San Carlos</small>
               </p>
             </li>
@@ -118,7 +118,7 @@
                 <a href="#" class="btn btn-default btn-flat">Perfil</a>
               </div>
               <div class="pull-right">
-                <a href="#" class="btn btn-default btn-flat">Cerrar Sesión</a>
+                <a href="{{ url('/salir') }}" class="btn btn-default btn-flat">Cerrar Sesión</a>
               </div>
             </li>
           </ul>
@@ -138,7 +138,7 @@
           <img src="{{ asset('assets/sistema/img/avatar5.png') }}" class="img-circle" alt="User Image"/>
         </div>
         <div class="pull-left info">
-          <p>Hola, Juan Carlos</p>
+          <p>Hola, {{ Auth::user()->nombre }}</p>
 
           <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
         </div>

@@ -10,8 +10,7 @@ namespace Library\Repository;
 
 
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Http\Request;
-use Library\Entities\Usuario;
+use Illuminate\Support\Facades\Auth;
 use Library\Interfaces\UsuarioInterface;
 
 class UsuarioEloquent implements UsuarioInterface
@@ -25,6 +24,20 @@ class UsuarioEloquent implements UsuarioInterface
 
     public function validar($request)
     {
-        dd($this->usuario->all());
+        $usuario = $request->usuario;
+        $password = $request->password;
+
+        if($request->remember == 'on')
+        {
+            $recordar = 'true';
+        }else{
+            $recordar = 'false';
+        }
+
+        if(Auth::attempt(["usuario"=>$usuario, "password"=>$password],$recordar)){
+            return redirect()->intended('/habitacion/mostrar');
+        }else{
+            return redirect('/login');
+        }
     }
 }
