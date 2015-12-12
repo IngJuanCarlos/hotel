@@ -70,12 +70,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-9">
-                    <h2>Premium quality free onepage template</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                    <h2>Excelente descanso, Al mejor precio</h2>
+                    <p>El Cliente es lo mas importante.
+                    <br> La calidad es nuetro objetivo
+                    <br> El servicio nos diferencia
+                    <br> Somos una gran familia al servicio de nuestros clientes
                     </p>
                 </div>
                 <div class="col-sm-3 text-right">
-                    <a class="btn btn-primary btn-lg" href="#">Download Now!</a>
+                    <a class="btn btn-primary btn-lg" href="#">Leer mas</a>
                 </div>
             </div>
         </div>
@@ -148,514 +151,50 @@
     <section id="cta2">
         <div class="container">
             <div class="text-center">
-                <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms"><span>MULTI</span> IS A CREATIVE HTML TEMPLATE</h2>
-                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">Mauris pretium auctor quam. Vestibulum et nunc id nisi fringilla <br />iaculis. Mauris pretium auctor quam.</p>
-                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"><a class="btn btn-primary btn-lg" href="#">Free Download</a></p>
+                <h2 class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms"></h2>
+                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms"> <br /></p>
+                <p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms"></p>
                 <img class="img-responsive wow fadeIn" src="images/cta2/cta2-img.png" alt="" data-wow-duration="300ms" data-wow-delay="300ms">
             </div>
         </div>
     </section>
 
-    <section id="services" >
-        <div class="container">
-
-            <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Reservaciones</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </div>
-
-            <div class="row">
-                <div class="features">
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="0ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-line-chart"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">UX design</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="100ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-cubes"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">UI design</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="200ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-pie-chart"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">SEO Services</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="300ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-bar-chart"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">iOS App</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-language"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">Android App</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-4 col-sm-6 wow fadeInUp" data-wow-duration="300ms" data-wow-delay="500ms">
-                        <div class="media service-box">
-                            <div class="pull-left">
-                                <i class="fa fa-bullseye"></i>
-                            </div>
-                            <div class="media-body">
-                                <h4 class="media-heading">Win App</h4>
-                                <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                            </div>
-                        </div>
-                    </div><!--/.col-md-4-->
-                </div>
-            </div><!--/.row-->
-        </div><!--/.container-->
-    </section><!--/#services-->
-
-    <section id="portfolio">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Our Works</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </div>
-
-            <div class="text-center">
-                <ul class="portfolio-filter">
-                    <li><a class="active" href="#" data-filter="*">All Works</a></li>
-                    <li><a href="#" data-filter=".creative">Creative</a></li>
-                    <li><a href="#" data-filter=".corporate">Corporate</a></li>
-                    <li><a href="#" data-filter=".portfolio">Portfolio</a></li>
-                </ul><!--/#portfolio-filter-->
-            </div>
-
-            <div class="portfolio-items">
-                <div class="portfolio-item creative">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="{{ asset('assets/pagina/images/portfolio/01.jpg') }}" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 1</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="{{ asset('assets/pagina/images/portfolio/full.jpg') }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-                <div class="portfolio-item corporate portfolio">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="{{ asset('assets/pagina/images/portfolio/02.jpg') }}" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 2</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="{{ asset('assets/pagina/images/portfolio/full.jpg') }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-                <div class="portfolio-item creative">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="{{ asset('assets/pagina/images/portfolio/03.jpg') }}" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 3</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="{{ asset('assets/pagina/images/portfolio/full.jpg') }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-                <div class="portfolio-item corporate">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="{{ asset('assets/pagina/images/portfolio/04.jpg') }}" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 4</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="{{ asset('assets/pagina/images/portfolio/full.jpg') }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-                <div class="portfolio-item creative portfolio">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="{{ asset('assets/pagina/images/portfolio/05.jpg') }}" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 5</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="{{ asset('assets/pagina/images/portfolio/full.jpg') }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-                <div class="portfolio-item corporate">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="{{ asset('assets/pagina/images/portfolio/06.jpg') }}" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 5</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="{{ asset('assets/pagina/images/portfolio/full.jpg') }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-                <div class="portfolio-item creative portfolio">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="{{ asset('assets/pagina/images/portfolio/07.jpg') }}" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 7</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="{{ asset('assets/pagina/images/portfolio/full.jpg') }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-
-                <div class="portfolio-item corporate">
-                    <div class="portfolio-item-inner">
-                        <img class="img-responsive" src="{{ asset('assets/pagina/images/portfolio/08.jpg') }}" alt="">
-                        <div class="portfolio-info">
-                            <h3>Portfolio Item 8</h3>
-                            Lorem Ipsum Dolor Sit
-                            <a class="preview" href="{{ asset('assets/pagina/images/portfolio/full.jpg') }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
-                        </div>
-                    </div>
-                </div><!--/.portfolio-item-->
-            </div>
-        </div><!--/.container-->
-    </section><!--/#portfolio-->
-
-{{--     <section id="about">
-        <div class="container">
-
-            <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">About Us</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </div>
-
-            <div class="row">
-                <div class="col-sm-6 wow fadeInLeft">
-                    <h3 class="column-title">Video de Nuestras Instalaciones</h3>
-                    <!-- 16:9 aspect ratio -->
-                    <div class="embed-responsive embed-responsive-16by9">
-                        <iframe src="//player.vimeo.com/video/58093852?title=0&amp;byline=0&amp;portrait=0&amp;color=e79b39" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-                    </div>
-                </div>
-
-                <div class="col-sm-6 wow fadeInRight">
-                    <h3 class="column-title">Multi Capability</h3>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-
-                    <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <ul class="nostyle">
-                                <li><i class="fa fa-check-square"></i> Ipsum is simply dummy</li>
-                                <li><i class="fa fa-check-square"></i> When an unknown</li>
-                            </ul>
-                        </div>
-
-                        <div class="col-sm-6">
-                            <ul class="nostyle">
-                                <li><i class="fa fa-check-square"></i> The printing and typesetting</li>
-                                <li><i class="fa fa-check-square"></i> Lorem Ipsum has been</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <a class="btn btn-primary" href="#">Learn More</a>
-
-                </div>
-            </div>
+     <section id="services">
+        <div class="container-wrapper">
+        <div class="section-header">
+            <h2 class="section-title text-center wow fadeInDown">Reservaciones</h2>
+            <p class="text-center wow fadeInDown">Genera la reservacion desde la comodidad de tu hogar  </p>
         </div>
-    </section><!--/#about--> --}}
-{{-- 
-    <section id="work-process">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Our Process</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </div>
+            <div class="container">
+                <div class="row">
+                <div class="col-sm-8 ">
+                    <img class="img-responsive" src="{{ asset('assets/pagina/images/reservar.jpg') }}" alt="">
+                </div>
+                    <div class="col-sm-4">
+                        <div class="contact-form">
+                            <h3>Aparta tu habitación</h3>
 
-            <div class="row text-center">
-                <div class="col-md-2 col-md-4 col-xs-6">
-                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="icon-circle">
-                            <span>1</span>
-                            <i class="fa fa-coffee fa-2x"></i>
+                            <form id="main-contact-form" name="contact-form" method="post" action="#">
+                                <div class="form-group">
+                                    <input type="text" name="nombre" class="form-control" placeholder="Nombre Completo" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" name="tipo" class="form-control" placeholder="Tipo de habitacion" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" name="fechaentrada" class="form-control" placeholder="Fecha de Ingreso" required>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" name="fechasalida" class="form-control" placeholder="Fecha de Salida" required>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Reservar</button>
+                            </form>
                         </div>
-                        <h3>MEET</h3>
-                    </div>
-                </div>
-                <div class="col-md-2 col-md-4 col-xs-6">
-                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="100ms">
-                        <div class="icon-circle">
-                            <span>2</span>
-                            <i class="fa fa-bullhorn fa-2x"></i>
-                        </div>
-                        <h3>PLAN</h3>
-                    </div>
-                </div>
-                <div class="col-md-2 col-md-4 col-xs-6">
-                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="200ms">
-                        <div class="icon-circle">
-                            <span>3</span>
-                            <i class="fa fa-image fa-2x"></i>
-                        </div>
-                        <h3>DESIGN</h3>
-                    </div>
-                </div>
-                <div class="col-md-2 col-md-4 col-xs-6">
-                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="300ms">
-                        <div class="icon-circle">
-                            <span>4</span>
-                            <i class="fa fa-heart fa-2x"></i>
-                        </div>
-                        <h3>DEVELOP</h3>
-                    </div>
-                </div>
-                <div class="col-md-2 col-md-4 col-xs-6">
-                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="400ms">
-                        <div class="icon-circle">
-                            <span>5</span>
-                            <i class="fa fa-shopping-cart fa-2x"></i>
-                        </div>
-                        <h3>TESTING</h3>
-                    </div>
-                </div>
-                <div class="col-md-2 col-md-4 col-xs-6">
-                    <div class="wow fadeInUp" data-wow-duration="400ms" data-wow-delay="500ms">
-                        <div class="icon-circle">
-                            <span>6</span>
-                            <i class="fa fa-space-shuttle fa-2x"></i>
-                        </div>
-                        <h3>LAUNCH</h3>
                     </div>
                 </div>
             </div>
         </div>
-    </section><!--/#work-process--> --}}
-{{-- 
-    <section id="meet-team">
-        <div class="container">
-            <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Meet The Team</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
-            </div>
-
-            <div class="row">
-                <div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="0ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="{{ asset('assets/pagina/images/team/01.jpg') }}" alt="">
-                        </div>
-                        <div class="team-info">
-                            <h3>Bin Burhan</h3>
-                            <span>Co-Founder</span>
-                        </div>
-                        <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                        <ul class="social-icons">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="100ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="{{ asset('assets/pagina/images/team/02.jpg') }}" alt="">
-                        </div>
-                        <div class="team-info">
-                            <h3>Jane Man</h3>
-                            <span>Project Manager</span>
-                        </div>
-                        <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                        <ul class="social-icons">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="200ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="{{ asset('assets/pagina/images/team/03.jpg') }}" alt="">
-                        </div>
-                        <div class="team-info">
-                            <h3>Pahlwan</h3>
-                            <span>Designer</span>
-                        </div>
-                        <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                        <ul class="social-icons">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="team-member wow fadeInUp" data-wow-duration="400ms" data-wow-delay="300ms">
-                        <div class="team-img">
-                            <img class="img-responsive" src="{{ asset('assets/pagina/images/team/04.jpg') }}" alt="">
-                        </div>
-                        <div class="team-info">
-                            <h3>Nasir uddin</h3>
-                            <span>UI/UX</span>
-                        </div>
-                        <p>Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater</p>
-                        <ul class="social-icons">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="divider"></div>
-
-            <div class="row">
-                <div class="col-sm-4">
-                    <h3 class="column-title">Our Skills</h3>
-                    <strong>GRAPHIC DESIGN</strong>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-primary" role="progressbar" data-width="85">85%</div>
-                    </div>
-                    <strong>WEB DESIGN</strong>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-primary" role="progressbar" data-width="70">70%</div>
-                    </div>
-                    <strong>WORDPRESS DEVELOPMENT</strong>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-primary" role="progressbar" data-width="90">90%</div>
-                    </div>
-                    <strong>JOOMLA DEVELOPMENT</strong>
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-primary" role="progressbar" data-width="65">65%</div>
-                    </div>
-                </div>
-
-                <div class="col-sm-4">
-                    <h3 class="column-title">Our History</h3>
-                    <div role="tabpanel">
-                        <ul class="nav main-tab nav-justified" role="tablist">
-                            <li role="presentation" class="active">
-                                <a href="#tab1" role="tab" data-toggle="tab" aria-controls="tab1" aria-expanded="true">2010</a>
-                            </li>
-                            <li role="presentation">
-                                <a href="#tab2" role="tab" data-toggle="tab" aria-controls="tab2" aria-expanded="false">2011</a>
-                            </li>
-                            <li role="presentation">
-                                <a href="#tab3" role="tab" data-toggle="tab" aria-controls="tab3" aria-expanded="false">2013</a>
-                            </li>
-                            <li role="presentation">
-                                <a href="#tab4" role="tab" data-toggle="tab" aria-controls="tab4" aria-expanded="false">2014</a>
-                            </li>
-                        </ul>
-                        <div id="tab-content" class="tab-content">
-                            <div role="tabpanel" class="tab-pane fade active in" id="tab1" aria-labelledby="tab1">
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                                <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters readable English.</p>
-                            </div>
-                            <div role="tabpanel" class="tab-pane fade" id="tab2" aria-labelledby="tab2">
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                                <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters readable English.</p>
-                            </div>
-                            <div role="tabpanel" class="tab-pane fade" id="tab3" aria-labelledby="tab3">
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                                <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters readable English.</p>
-                            </div>
-                            <div role="tabpanel" class="tab-pane fade" id="tab4" aria-labelledby="tab3">
-                                <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-                                <p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters readable English.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-4">
-                    <h3 class="column-title">Faqs</h3>
-                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-                        <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingOne">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Enim eiusmod high life accusamus
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                                <div class="panel-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingTwo">
-                                <h4 class="panel-title">
-                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        Nihil anim keffiyeh helvetica
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                                <div class="panel-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="panel panel-default">
-                            <div class="panel-heading" role="tab" id="headingThree">
-                                <h4 class="panel-title">
-                                    <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        Vegan excepteur butcher vice lomo
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                                <div class="panel-body">
-                                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section><!--/#meet-team--> --}}
+    </section><!--/#bottom-->
 
     <section id="animated-number">
         <div class="container">
@@ -696,116 +235,85 @@
     <section id="pricing">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Pricing Table</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2 class="section-title text-center wow fadeInDown">Precios</h2>
+                <p class="text-center wow fadeInDown">Consulta las tarifas de cada una de nuestras habitaciones  <br> decide cual es tu habitacion ideal </p>
             </div>
 
             <div class="row">
-                <div class="col-sm-6 col-md-3">
+                <div class="col-sm-6 col-md-4">
                     <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="0ms">
                         <ul class="pricing">
                             <li class="plan-header">
                                 <div class="price-duration">
                                     <span class="price">
-                                        $39
+                                        $200
                                     </span>
                                     <span class="duration">
-                                        per month
+                                        por Dia
                                     </span>
                                 </div>
 
                                 <div class="plan-name">
-                                    Starter
+                                    1 Cama
                                 </div>
                             </li>
-                            <li><strong>1</strong> DOMAIN</li>
-                            <li><strong>100GB</strong> DISK SPACE</li>
-                            <li><strong>UNLIMITED</strong> BANDWIDTH</li>
-                            <li>SHARED SSL CERTIFICATE</li>
-                            <li><strong>10</strong> EMAIL ADDRESS</li>
-                            <li><strong>24/7</strong> SUPPORT</li>
-                            <li class="plan-purchase"><a class="btn btn-primary" href="#">ORDER NOW</a></li>
+                            <li>Televisor con Sistema de Cable</li>
+                            <li><strong>1</strong> Cama Matrimonial</li>
+                            <li><strong>1</strong> Baño y Regadera</li>
+                            <li><strong>1</strong> Guardaropa</li>
+                            <li>Tocador</li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-3">
+                <div class="col-sm-6 col-md-4">
                     <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="200ms">
                         <ul class="pricing featured">
                             <li class="plan-header">
                                 <div class="price-duration">
                                     <span class="price">
-                                        $69
+                                        $300
                                     </span>
                                     <span class="duration">
-                                        per month
+                                        Por dia
                                     </span>
                                 </div>
 
                                 <div class="plan-name">
-                                    Business
+                                    Dos Camas
                                 </div>
                             </li>
-                            <li><strong>3</strong> DOMAIN</li>
-                            <li><strong>300GB</strong> DISK SPACE</li>
-                            <li><strong>UNLIMITED</strong> BANDWIDTH</li>
-                            <li>SHARED SSL CERTIFICATE</li>
-                            <li><strong>30</strong> EMAIL ADDRESS</li>
-                            <li><strong>24/7</strong> SUPPORT</li>
-                            <li class="plan-purchase"><a class="btn btn-default" href="#">ORDER NOW</a></li>
+                            <li><strong>Televisor con Sistema de Cable</strong></li>
+                            <li><strong> 1 Cama Matrimonial</strong></li>
+                            <li><strong>1 Cama Individual</strong></li>
+                            <li><strong>Baño y Regadera</strong></li>
+                            <li><strong>2 Guardaropa </strong></li>
+                            <li><strong>Tocador</strong> </li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-3">
+                <div class="col-sm-6 col-md-4">
                     <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="400ms">
                         <ul class="pricing">
                             <li class="plan-header">
                                 <div class="price-duration">
                                     <span class="price">
-                                        $99
+                                        $350
                                     </span>
                                     <span class="duration">
-                                        per month
+                                        Por Dia
                                     </span>
                                 </div>
 
                                 <div class="plan-name">
-                                    Pro
+                                    Suite
                                 </div>
                             </li>
-                            <li><strong>5</strong> DOMAIN</li>
-                            <li><strong>500GB</strong> DISK SPACE</li>
-                            <li><strong>UNLIMITED</strong> BANDWIDTH</li>
-                            <li>SHARED SSL CERTIFICATE</li>
-                            <li><strong>50</strong> EMAIL ADDRESS</li>
-                            <li><strong>24/7</strong> SUPPORT</li>
-                            <li class="plan-purchase"><a class="btn btn-primary" href="#">ORDER NOW</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-md-3">
-                    <div class="wow zoomIn" data-wow-duration="400ms" data-wow-delay="600ms">
-                        <ul class="pricing">
-                            <li class="plan-header">
-                                <div class="price-duration">
-                                    <span class="price">
-                                        $199
-                                    </span>
-                                    <span class="duration">
-                                        per month
-                                    </span>
-                                </div>
-
-                                <div class="plan-name">
-                                    Ultra
-                                </div>
-                            </li>
-                            <li><strong>10</strong> DOMAIN</li>
-                            <li><strong>1000GB</strong> DISK SPACE</li>
-                            <li><strong>UNLIMITED</strong> BANDWIDTH</li>
-                            <li>SHARED SSL CERTIFICATE</li>
-                            <li><strong>100</strong> EMAIL ADDRESS</li>
-                            <li><strong>24/7</strong> SUPPORT</li>
-                            <li class="plan-purchase"><a class="btn btn-primary" href="#">ORDER NOW</a></li>
+                            <li><strong>Televisor con Sistema de Cable</strong></li>
+                            <li><strong>Baño y Regadera</strong></li>
+                            <li><strong>1 Cama King Size </strong></li>
+                            <li><strong>Guardaropa</strong></li>
+                            <li><strong>Tocador</strong></li>
+                            <li><strong>Cocina</strong></li>
                         </ul>
                     </div>
                 </div>
@@ -823,29 +331,12 @@
                         <div class="carousel-inner" role="listbox">
                             <div class="item active">
                                 <p><img class="img-circle img-thumbnail" src="{{ asset('assets/pagina/images/testimonial/01.jpg') }}" alt=""></p>
-                                <h4>Louise S. Morgan</h4>
-                                <small>Treatment, storage, and disposal (TSD) worker</small>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
-                            </div>
-                            <div class="item">
-                                <p><img class="img-circle img-thumbnail" src="{{ asset('assets/pagina/images/testimonial/01.jpg') }}" alt=""></p>
-                                <h4>Louise S. Morgan</h4>
-                                <small>Treatment, storage, and disposal (TSD) worker</small>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua. Ut enim ad minim veniam</p>
+                                <h4>Nuestros Clientes</h4>
+                                <small>En Hotel San Carlos nuestros clientes siempre quedan satisfechos</small>
+                                <p>Nuestra politia es que tu y tu familia solo tengan lo mejor. Lo Garantizamos</p>
                             </div>
                         </div>
 
-                        <!-- Controls -->
-                        <div class="btns">
-                            <a class="btn btn-primary btn-sm" href="#carousel-testimonial" role="button" data-slide="prev">
-                                <span class="fa fa-angle-left" aria-hidden="true"></span>
-                                <span class="sr-only">Previous</span>
-                            </a>
-                            <a class="btn btn-primary btn-sm" href="#carousel-testimonial" role="button" data-slide="next">
-                                <span class="fa fa-angle-right" aria-hidden="true"></span>
-                                <span class="sr-only">Next</span>
-                            </a>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -855,43 +346,43 @@
     <section id="get-in-touch">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Get in Touch</h2>
-                <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
+                <h2 class="section-title text-center wow fadeInDown">Contactanos</h2>
+                <p class="text-center wow fadeInDown">Ponte en contacto con nostros <br> Nosotros nos pondremos en contacto contigo para cualquier duda o aclaración </p>
             </div>
         </div>
     </section><!--/#get-in-touch-->
 
 
     <section id="contact">
-        <div id="google-map" style="height:650px" data-latitude="52.365629" data-longitude="4.871331"></div>
+        <div id="google-map" style="height:650px" data-latitude="19.129018" data-longitude="-98.7688893"></div>
         <div class="container-wrapper">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4 col-sm-offset-8">
                         <div class="contact-form">
-                            <h3>Contact Info</h3>
+                            <h3>Contactos</h3>
 
                             <address>
-                                <strong>Twitter, Inc.</strong><br>
-                                795 Folsom Ave, Suite 600<br>
-                                San Francisco, CA 94107<br>
-                                <abbr title="Phone">P:</abbr> (123) 456-7890
+                                <strong>Hotel San Carlos</strong><br>
+                                Plaza de la Constitucion # 10 <br>
+                                Amecameca de Juarez Colonia Centro, C.P. 56900<br>
+                                <abbr title="Phone">Telefono:</abbr> (597) 000-0000
                             </address>
 
                             <form id="main-contact-form" name="contact-form" method="post" action="#">
                                 <div class="form-group">
-                                    <input type="text" name="name" class="form-control" placeholder="Name" required>
+                                    <input type="text" name="name" class="form-control" placeholder="Nombre" required>
                                 </div>
                                 <div class="form-group">
                                     <input type="email" name="email" class="form-control" placeholder="Email" required>
                                 </div>
                                 <div class="form-group">
-                                    <input type="text" name="subject" class="form-control" placeholder="Subject" required>
+                                    <input type="text" name="subject" class="form-control" placeholder="Asunto" required>
                                 </div>
                                 <div class="form-group">
-                                    <textarea name="message" class="form-control" rows="8" placeholder="Message" required></textarea>
+                                    <textarea name="message" class="form-control" rows="8" placeholder="Mensaje" required></textarea>
                                 </div>
-                                <button type="submit" class="btn btn-primary">Send Message</button>
+                                <button type="submit" class="btn btn-primary">Enviar Mensaje</button>
                             </form>
                         </div>
                     </div>
@@ -904,7 +395,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2014 Your Company. Designed by <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">ShapeBootstrap</a>
+                    &copy; Amecameca de Juarez, Colonia Centro C.P. 56900 <a target="_blank" href="http://shapebootstrap.net/" title="Free Twitter Bootstrap WordPress Themes and HTML templates">Estado de México</a>
                 </div>
                 <div class="col-sm-6">
                     <ul class="social-icons">
