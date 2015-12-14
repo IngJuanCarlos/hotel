@@ -199,7 +199,7 @@
     <section id="animated-number">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Fun Facts</h2>
+                <h2 class="section-title text-center wow fadeInDown"></h2>
                 <p class="text-center wow fadeInDown">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
             </div>
 
@@ -346,8 +346,8 @@
     <section id="get-in-touch">
         <div class="container">
             <div class="section-header">
-                <h2 class="section-title text-center wow fadeInDown">Contactanos</h2>
-                <p class="text-center wow fadeInDown">Ponte en contacto con nostros <br> Nosotros nos pondremos en contacto contigo para cualquier duda o aclaración </p>
+                <h2 class="section-title text-center wow fadeInDown">Contáctanos</h2>
+                <p class="text-center wow fadeInDown"><br> Nosotros nos pondremos en contacto contigo para cualquier duda o aclaración </p>
             </div>
         </div>
     </section><!--/#get-in-touch-->
