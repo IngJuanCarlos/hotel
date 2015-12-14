@@ -144,6 +144,7 @@ return [
         Hotel\Providers\AuthServiceProvider::class,
         Hotel\Providers\EventServiceProvider::class,
         Hotel\Providers\RouteServiceProvider::class,
+        Hotel\Providers\LibraryServiceProvider::class,
 
     ],
 

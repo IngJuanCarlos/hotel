@@ -1,4 +1,4 @@
-@extends('templates/sistema')
+@extends('templates.sistema')
 
 @section('menu')
   <ul class="sidebar-menu">
